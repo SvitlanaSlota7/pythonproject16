@@ -1,0 +1,2 @@
+[2026-04-17 14:22:18] ERROR: Invalid age: -5. Age cannot be negative!
+[2026-04-17 14:37:25] ERROR: Invalid age: -5. Age cannot be negative!
